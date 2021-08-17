@@ -27,8 +27,6 @@ studing at 42SP 💻
  
  Achievement🥇
  <div>
-  <a href="COLOCA O LINK PARA O REPOSITORIO">
-  <img src="  https://game.42sp.org.br/static/assets/achievements/libftm.png" />
-  </a>
+  <a href="https://github.com/lmoraesdev/Libft"><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" ></a>
  </div>
  
