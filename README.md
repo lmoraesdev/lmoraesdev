@@ -30,5 +30,5 @@ studing at 42SP 💻
   <a href="COLOCA O LINK PARA O REPOSITORIO">
   <img src="  https://game.42sp.org.br/static/assets/achievements/libftm.png" />
   </a>
-</div
+ </div>
  
