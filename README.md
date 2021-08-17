@@ -1,6 +1,6 @@
 Hi there! I'm Leandro Moraes 😁
 
-studied at 42SP 💻
+studing at 42SP 💻
 ##
 
  <div>
@@ -23,3 +23,12 @@ studied at 42SP 💻
   <a href="https://www.linkedin.com/in/leandro-moraes-442b20215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
+  ##
+ 
+ Achievement🥇
+ <div>
+  <a href="COLOCA O LINK PARA O REPOSITORIO">
+  <img src="  https://game.42sp.org.br/static/assets/achievements/libftm.png" />
+  </a>
+</div
+ 
