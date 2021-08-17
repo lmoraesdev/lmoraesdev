@@ -1,9 +1,6 @@
 Hi there! I'm Leandro Moraes 😁
 
-##
-
 studied at 42SP 💻
-
 ##
 
  <div>
