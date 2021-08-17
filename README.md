@@ -1,11 +1,15 @@
-Hi there! I'm Leandro Moraes
+Hi there! I'm Leandro Moraes 😁
 
-studied at 42SP 
+##
+
+studied at 42SP 💻
+
+##
 
  <div>
   <a href="https://github.com/lmoraesdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmoraesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmoraesdev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lmoraesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmoraesdev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
