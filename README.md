@@ -1,4 +1,4 @@
-<img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" />
+<a><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" /></a>
 
 <h1>Hi there! I'm Leandro Moraes 😁</h1>
 
