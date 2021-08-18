@@ -27,6 +27,6 @@ studing at 42SP 💻
  
  Achievement🥇
  <div>
-  <a href="https://github.com/lmoraesdev/Libft"><img height="50" width="50" src="https://game.42sp.org.br/static/assets/achievements/libftm.png" ></a>
+  <a href="https://github.com/lmoraesdev/Libft"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/libftm.png" ></a>
  </div>
  
