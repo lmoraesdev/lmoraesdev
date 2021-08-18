@@ -1,5 +1,9 @@
-<a><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" /></a>
-
+<div>
+    <a style=" display:flex; height: 400px; justify-content: center; overflow: hidden;">
+    <img style="flex: none; width: 105%; height: 110%;" src="https://64.media.tumblr.com/a1f4ca79f1dda991ad7c38bc637c0a4f/b3619d81d66fbedf-4e/s540x810/d2395d752da516149a77bf1380752ff22b0a6de5.gifv" />
+    </a>
+  </div>
+  
 <h1>Hi there! I'm Leandro Moraes 😁</h1>
 
 studing at 42SP 💻
@@ -19,7 +23,7 @@ studing at 42SP 💻
   
   ##
  
- Achievement🥇
+ Achievement🥇 
  <div>
   <a href="https://github.com/lmoraesdev/Libft"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/libftm.png" ></a>
  </div>
@@ -27,7 +31,6 @@ studing at 42SP 💻
   ##
   
   <div> 
- <a href="LeandroMoraes#1282" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lmoraesdev@outlook.com.tech"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leandro-moraes-442b20215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
