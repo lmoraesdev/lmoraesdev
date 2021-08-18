@@ -1,4 +1,16 @@
-<img width="85%" src="https://64.media.tumblr.com/a1f4ca79f1dda991ad7c38bc637c0a4f/b3619d81d66fbedf-4e/s540x810/d2395d752da516149a77bf1380752ff22b0a6de5.gifv" target="_blank">
+<div>
+  <a class=" d-flex h-400 justify-content-center overflow-hidden">
+  <img clas= "plants" src=" https://game.42sp.org.br/static/assets/achievements/libftm.png" />
+  </a>
+</div>
+
+<style> 
+.plants{
+width: 105%;
+    flex: none;
+    height: 110%;
+}
+</style>
 
 <h1>Hi there! I'm Leandro Moraes</h1> 😁
 
