@@ -1,18 +1,6 @@
-<div>
-  <a class=" d-flex h-400 justify-content-center overflow-hidden">
-  <img clas= "plants" src=" https://game.42sp.org.br/static/assets/achievements/libftm.png" />
-  </a>
-</div>
+<img clas= "plants" src=" https://game.42sp.org.br/static/assets/achievements/libftm.png" />
 
-<style> 
-.plants{
-width: 105%;
-    flex: none;
-    height: 110%;
-}
-</style>
-
-<h1>Hi there! I'm Leandro Moraes</h1> 😁
+<h1>Hi there! I'm Leandro Moraes 😁</h1>
 
 studing at 42SP 💻
 ##
