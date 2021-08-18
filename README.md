@@ -1,4 +1,4 @@
-<img clas= "plants" src=" https://game.42sp.org.br/static/assets/achievements/libftm.png" />
+<img src=" https://game.42sp.org.br/static/assets/achievements/libftm.png" />
 
 <h1>Hi there! I'm Leandro Moraes 😁</h1>
 
