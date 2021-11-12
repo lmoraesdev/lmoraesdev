@@ -27,6 +27,7 @@ studing at 42SP 💻
  <div>
   <a href="https://github.com/lmoraesdev/Libft"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/libftm.png" ></a>
   <a href="https://github.com/lmoraesdev/GNL"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" ></a>
+  <a href="https://github.com/lmoraesdev/Printf"><img height="80" width-"80" src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png"> </a>
  </div>
  
   ##
