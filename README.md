@@ -1,8 +1,8 @@
 <div>
-    <a display="flex" height= 400px; justify-content= "center" overflow= "hidden" >
-    <img flex= "none" width= 105%; height= 110%; src="https://64.media.tumblr.com/a1f4ca79f1dda991ad7c38bc637c0a4f/b3619d81d66fbedf-4e/s540x810/d2395d752da516149a77bf1380752ff22b0a6de5.gifv" />
+    <a display="flex"; justify-content= "center" overflow= "hidden" >
+    <img flex="none" width="100%"; height="400px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4774xk7y8ibdgiqbq60n0j4t0tgqi8ahawnduts3p4&rid=giphy.gif&ct=g" />
     </a>
-  </div>
+</div>
   
 <h1>Hi there! I'm Leandro Moraes</h1>
 
