@@ -5,10 +5,10 @@
 </div>
   
 <h1>Hi there! I'm Leandro Moraes</h1>
-
-Studing at 42SP 💻
-Studing at Udemy-Frontend
-
+<p>
+Studing at 42SP 💻<br>
+Studing at Udemy-Frontend<br>
+</p>
 ##
 
  <div>
