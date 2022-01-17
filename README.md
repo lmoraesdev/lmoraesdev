@@ -3,12 +3,13 @@
     <img flex="none" width="100%"; height="400px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4774xk7y8ibdgiqbq60n0j4t0tgqi8ahawnduts3p4&rid=giphy.gif&ct=g" />
     </a>
 </div>
-  
+
+
 <h1>Hi there! I'm Leandro Moraes</h1>
-<p>
+
 Studing at 42SP 💻<br>
 Studing at Udemy-Frontend<br>
-</p>
+
 ##
 
  <div>
