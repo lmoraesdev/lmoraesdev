@@ -28,13 +28,14 @@ Studing at 42SP 💻
  Achievement🥇 
  <div>
   <a href="https://github.com/lmoraesdev/Libft"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/libftm.png"></a>
-  <a href="https://github.com/lmoraesdev/GNL"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" ></a>
-  <a href="https://github.com/lmoraesdev/Printf"><img height="80" width-"80" src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png"> </a>
+  <a href="https://github.com/lmoraesdev/GNL"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png"></a>
+  <a href="https://github.com/lmoraesdev/Printf"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png"></a>
+  <a href="https://github.com/lmoraesdev/Born2beRoot"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png"></a>
  </div>
  
   ##
   
   <div> 
-  <a href = "mailto:lmoraesdev@outlook.com.tech"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lbc_moraes@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leandro-moraes-442b20215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
