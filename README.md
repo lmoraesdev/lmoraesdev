@@ -19,11 +19,12 @@ Studing at Udemy-Frontend<br>
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="dev-c"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="dev-C"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="dev-CSS"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="dev-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="dev-js"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="dev-TS"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" >
 </div>
   
   ##
@@ -34,6 +35,7 @@ Studing at Udemy-Frontend<br>
   <a href="https://github.com/lmoraesdev/GNL"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png"></a>
   <a href="https://github.com/lmoraesdev/Printf"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png"></a>
   <a href="https://github.com/lmoraesdev/Born2beRoot"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png"></a>
+  <a href="https://github.com/lmoraesdev/so_long"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/so_longm.png"></a>
  </div>
  
   ##
