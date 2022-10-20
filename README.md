@@ -7,9 +7,9 @@
 
 <h1>Hi there! I'm Leandro Moraes</h1>
 
-Studing at 42SP 💻<br>
-Studing at Udemy-Frontend<br>
-Studing at Alura <br>
+Studying at 42SP 💻<br>
+Studying at Udemy-Frontend<br>
+Studying at Alura <br>
 
 ##
 
@@ -27,17 +27,22 @@ Studing at Alura <br>
   <img align="center" alt="dev-js"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="dev-TS"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" >
   <img align="center" alt="dev-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="dev-style-commpontent" height="30" width="40" src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg">
 </div>
   
   ##
  
  Achievement🥇 
  <div>
+    <p>42sp fase 1<p>
+  <img height="120" width="120" src="https://game.42sp.org.br/static/assets/achievements/phase_onem.png">
+    <p>All the images below are linked to their respective repository<p>
   <a href="https://github.com/lmoraesdev/Libft"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/libftm.png"></a>
   <a href="https://github.com/lmoraesdev/GNL"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png"></a>
   <a href="https://github.com/lmoraesdev/Printf"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png"></a>
   <a href="https://github.com/lmoraesdev/Born2beRoot"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png"></a>
   <a href="https://github.com/lmoraesdev/so_long"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/so_longm.png"></a>
+  <a href="https://github.com/lmoraesdev/pipex"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/pipexm.png"></a>
  </div>
  
   ##
