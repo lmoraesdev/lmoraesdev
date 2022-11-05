@@ -17,7 +17,7 @@ Studying at Alura <br>
   <a href="https://github.com/lmoraesdev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lmoraesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmoraesdev&layout=compact&langs_count=8&theme=dracula"/>
-</div>
+ </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="dev-C"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -36,13 +36,15 @@ Studying at Alura <br>
  <div>
     <p>42sp fase 1<p>
   <img height="120" width="120" src="https://game.42sp.org.br/static/assets/achievements/phase_onem.png">
-    <p>All the images below are linked to their respective repository<p>
+    <p>All the images below are linked to their respective repository fase 1 </p>
   <a href="https://github.com/lmoraesdev/Libft"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/libftm.png"></a>
   <a href="https://github.com/lmoraesdev/GNL"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png"></a>
   <a href="https://github.com/lmoraesdev/Printf"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png"></a>
   <a href="https://github.com/lmoraesdev/Born2beRoot"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png"></a>
   <a href="https://github.com/lmoraesdev/so_long"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/so_longm.png"></a>
   <a href="https://github.com/lmoraesdev/pipex"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/pipexm.png"></a>
+     <p>All the images below are linked to their respective repository fase 2 <p>
+  
  </div>
  
   ##
