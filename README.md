@@ -27,7 +27,7 @@ Studying at Alura <br>
   <img align="center" alt="dev-js"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="dev-TS"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" >
   <img align="center" alt="dev-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="dev-style-commpontent" height="30" width="40" src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg">
+  <img align="center" alt="dev-style-commpontent" height="30" width="40" src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg"> 
 </div>
   
   ##
@@ -44,7 +44,7 @@ Studying at Alura <br>
   <a href="https://github.com/lmoraesdev/so_long"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/so_longm.png"></a>
   <a href="https://github.com/lmoraesdev/pipex"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/pipexm.png"></a>
      <p>All the images below are linked to their respective repository fase 2 <p>
-  
+  <a href="https://github.com/lmoraesdev/Push_Swap"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png"></a>  
  </div>
  
   ##
