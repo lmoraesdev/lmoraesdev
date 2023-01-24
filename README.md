@@ -9,7 +9,8 @@
 
 Studying at 42SP 💻<br>
 Studying at Udemy-Frontend<br>
-Studying at Alura <br>
+Studying at Alura Front-end-React<br>
+Studying at Alura Back-end-Node.js<br>
 
 ##
 
@@ -29,6 +30,7 @@ Studying at Alura <br>
   <img align="center" alt="dev-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="dev-style-commpontent" height="30" width="40" src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg">
   <img align="center" alt="dev-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="dev-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
  
 
 </div>
