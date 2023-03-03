@@ -49,7 +49,8 @@ Studying at Alura Back-end-Node.js<br>
   <a href="https://github.com/lmoraesdev/so_long"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/so_longm.png"></a>
   <a href="https://github.com/lmoraesdev/pipex"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/pipexm.png"></a>
      <p>All the images below are linked to their respective repository fase 2 <p>
-  <a href="https://github.com/lmoraesdev/Push_Swap"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png"></a>  
+  <a href="https://github.com/lmoraesdev/Push_Swap"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png"></a>
+  <a href="https://github.com/lmoraesdev/minishell"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/minishellm.png"></a>
  </div>
  
   ##
