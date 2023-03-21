@@ -16,8 +16,8 @@ Studying at Alura Back-end-Node.js<br>
 
  <div>
   <a href="https://github.com/lmoraesdev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lmoraesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmoraesdev&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lmoraesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lmoraesdev&layout=compact&langs_count=8&theme=dracula"/>
  </div>
   
 <div style="display: inline_block"><br>
