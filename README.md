@@ -51,6 +51,8 @@ Studying at Alura Back-end-Node.js<br>
      <p>All the images below are linked to their respective repository fase 2 <p>
   <a href="https://github.com/lmoraesdev/Push_Swap"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png"></a>
   <a href="https://github.com/lmoraesdev/minishell"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/minishellm.png"></a>
+  <a href="https://github.com/lmoraesdev/Philosophers"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/philosophersm.png"></a>
+  <a href="https://github.com/lmoraesdev/netpractice"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/netpracticem.png"></a>
  </div>
  
   ##
