@@ -39,8 +39,9 @@ Studying at Alura Back-end-Node.js<br>
  
  Achievement🥇 
  <div>
-    <p>42sp fase 1<p>
+    <p>42sp fase 1 - 2<p>
   <img height="120" width="120" src="https://game.42sp.org.br/static/assets/achievements/phase_onem.png">
+  <img height="120" width="120" src="https://game.42sp.org.br/static/assets/achievements/phase_twom.png">  
     <p>All the images below are linked to their respective repository fase 1 </p>
   <a href="https://github.com/lmoraesdev/Libft"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/libftm.png"></a>
   <a href="https://github.com/lmoraesdev/GNL"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png"></a>
@@ -53,6 +54,8 @@ Studying at Alura Back-end-Node.js<br>
   <a href="https://github.com/lmoraesdev/minishell"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/minishellm.png"></a>
   <a href="https://github.com/lmoraesdev/Philosophers"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/philosophersm.png"></a>
   <a href="https://github.com/lmoraesdev/netpractice"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/netpracticem.png"></a>
+  <a href="https://github.com/lmoraesdev/cub3D"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/cub3dm.png"></a>
+     <p>All the images below are linked to their respective repository fase 3 <p>
  </div>
  
   ##
