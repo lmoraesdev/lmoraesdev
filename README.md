@@ -31,8 +31,7 @@ Studying at Alura Back-end-Node.js<br>
   <img align="center" alt="dev-style-commpontent" height="30" width="40" src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg">
   <img align="center" alt="dev-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="dev-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
- 
-
+  <img align="center" alt="dev-nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />     
 </div>
   
   ##
