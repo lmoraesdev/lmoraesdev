@@ -55,6 +55,7 @@ Studying at Alura Back-end-Node.js<br>
   <a href="https://github.com/lmoraesdev/netpractice"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/netpracticem.png"></a>
   <a href="https://github.com/lmoraesdev/cub3D"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/cub3dm.png"></a>
      <p>All the images below are linked to their respective repository fase 3 <p>
+  <a href="https://github.com/lmoraesdev/CPP"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/cppm.png"></a>
  </div>
  
   ##
