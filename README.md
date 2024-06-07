@@ -38,24 +38,28 @@ Studying at Alura Back-end-Node.js<br>
  
  Achievement🥇 
  <div>
-    <p>42sp fase 1 - 2<p>
-  <img height="120" width="120" src="https://game.42sp.org.br/static/assets/achievements/phase_onem.png">
-  <img height="120" width="120" src="https://game.42sp.org.br/static/assets/achievements/phase_twom.png">  
-    <p>All the images below are linked to their respective repository fase 1 </p>
-  <a href="https://github.com/lmoraesdev/Libft"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/libftm.png"></a>
-  <a href="https://github.com/lmoraesdev/GNL"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png"></a>
-  <a href="https://github.com/lmoraesdev/Printf"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png"></a>
-  <a href="https://github.com/lmoraesdev/Born2beRoot"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png"></a>
-  <a href="https://github.com/lmoraesdev/so_long"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/so_longm.png"></a>
-  <a href="https://github.com/lmoraesdev/pipex"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/pipexm.png"></a>
-     <p>All the images below are linked to their respective repository fase 2 <p>
-  <a href="https://github.com/lmoraesdev/Push_Swap"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png"></a>
-  <a href="https://github.com/lmoraesdev/minishell"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/minishellm.png"></a>
-  <a href="https://github.com/lmoraesdev/Philosophers"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/philosophersm.png"></a>
-  <a href="https://github.com/lmoraesdev/netpractice"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/netpracticem.png"></a>
-  <a href="https://github.com/lmoraesdev/cub3D"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/cub3dm.png"></a>
-     <p>All the images below are linked to their respective repository fase 3 <p>
-  <a href="https://github.com/lmoraesdev/CPP"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/cppm.png"></a>
+		<p>42sp fase 1 - 2 - 3<p>
+	<img height="120" width="120" src="https://game.42sp.org.br/static/assets/achievements/phase_onem.png">
+	<img height="120" width="120" src="https://game.42sp.org.br/static/assets/achievements/phase_twom.png">
+	<img height="120" widht="120" src="https://game.42sp.org.br/static/assets/achievements/phase_threem.png">
+		<p>All the images below are linked to their respective repository fase 1 </p>
+	<a href="https://github.com/lmoraesdev/Libft"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/libftm.png"></a>
+	<a href="https://github.com/lmoraesdev/GNL"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png"></a>
+	<a href="https://github.com/lmoraesdev/Printf"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png"></a>
+	<a href="https://github.com/lmoraesdev/Born2beRoot"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png"></a>
+	<a href="https://github.com/lmoraesdev/so_long"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/so_longm.png"></a>
+	<a href="https://github.com/lmoraesdev/pipex"><img height="80" width="80" src="https://game.42sp.org.br/static/assets/achievements/pipexm.png"></a>
+		<p>All the images below are linked to their respective repository fase 2 <p>
+	<a href="https://github.com/lmoraesdev/Push_Swap"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png"></a>
+	<a href="https://github.com/lmoraesdev/minishell"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/minishellm.png"></a>
+	<a href="https://github.com/lmoraesdev/Philosophers"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/philosophersm.png"></a>
+	<a href="https://github.com/lmoraesdev/netpractice"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/netpracticem.png"></a>
+	<a href="https://github.com/lmoraesdev/cub3D"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/cub3dm.png"></a>
+	 	<p>All the images below are linked to their respective repository fase 3 <p>
+	<a href="https://github.com/lmoraesdev/CPP"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/cppm.png"></a>
+	<a href="https://github.com/lmoraesdev/inception"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/inceptionm.png"></a>
+	<a herf="https://github.com/lmoraesdev/webserv"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/webservm.png"></a>
+	<a herf="https://github.com/lmoraesdev/transcendence"><img height="80" widht="80" src="https://game.42sp.org.br/static/assets/achievements/ft_transcendencem.png"></a>
  </div>
  
   ##
