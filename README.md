@@ -63,7 +63,7 @@ I am an enthusiastic and dedicated aspiring Full Stack Developer with a solid fo
 ### Phase 3:
 - [CPP](https://github.com/lmoraesdev/CPP) - The C++ mini piscine
 - [Inception](https://github.com/lmoraesdev/inception) - One container is not enough
-- [WebServer](https://github.com/lmoraesdev/webserv) - An Internet Relay Chat server developed in C++
+- [WebServer](https://github.com/lmoraesdev/webserv) - An http server developed in C++
 
 ---
 
