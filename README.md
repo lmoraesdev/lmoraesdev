@@ -1,41 +1,47 @@
-## 👋&emsp;Hello, world!
-### :purple_heart:&emsp; Welcome to my profile!
+# 👋 Hello, world! I'm Leandro Moraes! 💜
+
+[![Visitors](https://komarev.com/ghpvc/?username=lmoraesdev&color=blue&style=flat&label=visitors)](https://github.com/lmoraesdev)
+[![GitHub followers](https://img.shields.io/github/followers/lmoraesdev?style=social)](https://github.com/lmoraesdev)
+[![GitHub stars](https://img.shields.io/github/stars/lmoraesdev?style=social)](https://github.com/lmoraesdev)
 
 ---
 
-### :bust_in_silhouette: &emsp; About Me
+## 🚀 About Me
 
-I am an enthusiastic and dedicated aspiring Full Stack Developer with a solid foundation in various programming languages and frameworks. I am passionate about solving complex problems and am committed to continuously improving my skills. Currently, I am a cadet at 42SP, where I am expanding my knowledge and refining my skills in software development. I am eager to apply what I have learned in a professional environment and contribute to impactful projects.
+I'm a driven and enthusiastic aspiring **Full-Stack Developer** with a passion for building innovative and user-centric web applications. I thrive on solving complex problems and am constantly seeking opportunities to expand my skillset and create impactful solutions.
 
+Currently, I'm immersed in the rigorous **42 São Paulo** program, where I'm sharpening my programming prowess and collaborating with talented peers on challenging projects. I'm particularly captivated by the world of front-end development, where I enjoy crafting seamless and engaging user experiences.
+
+My ultimate goal is to leverage my skills and knowledge in a dynamic and collaborative professional environment. I'm eager to contribute to meaningful projects, learn from experienced mentors, and continue my journey of growth as a developer. I'm a fast learner, a dedicated team player, and I approach every challenge with enthusiasm and a problem-solving mindset.
+
+Let's connect and build something amazing together!
 
 ---
 
-### :computer: &emsp; Skills
+## 💻 Tech Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-	<img align="center" alt="C" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-	<img align="center" alt="C++" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-	<img align="center" alt="HTML" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img align="center" alt="CSS" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img align="center" alt="Bootstrap" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-	<img align="center" alt="JavaScript" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-	<img align="center" alt="TypeScript" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-	<img align="center" alt="React" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-	<img align="center" alt="Styled Components" height="30" width="40" src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg">
-	<img align="center" alt="Node.js" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-	<img align="center" alt="Express" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-	<img align="center" alt="NestJS" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg">
+  <img align="center" alt="C" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="HTML" height="60"   
+ width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="60"   
+ width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bootstrap" height="60"   
+ width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="JavaScript"   
+ height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="60"   
+ width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="60"   
+ width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Styled Components" height="30" width="40" src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg">
+  <img   
+ align="center" alt="Node.js" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Express" height="60"   
+ width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img align="center" alt="NestJS" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg">
 </div>
-
----
-
-### :chart_with_upwards_trend: &emsp; Stats
-
-<p align="left">
-    <img alt="lmoraesdev's stars" src="https://img.shields.io/github/stars/lmoraesdev?color=blue" />
-    <img alt="lmoraesdev's followers" src="https://img.shields.io/github/followers/lmoraesdev?color=blue" />
-    <img alt="lmoraesdev's visitors" src="https://komarev.com/ghpvc/?username=lmoraesdev&color=blue&style=flat&label=visitors" />
-</p>
 
 ---
 
@@ -61,15 +67,19 @@ I am an enthusiastic and dedicated aspiring Full Stack Developer with a solid fo
 - [cube3D](https://github.com/lmoraesdev/cub3D) - My first ray tracer
 
 ### Phase 3:
+<img alt="42 Phase Three" src="https://github.com/caroldaniel/caroldaniel-utils/blob/main/phase_threem.png">
+
 - [CPP](https://github.com/lmoraesdev/CPP) - The C++ mini piscine
 - [Inception](https://github.com/lmoraesdev/inception) - One container is not enough
 - [WebServer](https://github.com/lmoraesdev/webserv) - An http server developed in C++
+- [Transcendence](https://github.com/lmoraesdev/transcendence) - Surprise
 
 ---
 
-### :mailbox_with_mail: &emsp; Contact
+### 📫 Let's Connect!
 
 <div>
-  <a href="mailto:lbc_moraes@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leandro-moraes-442b20215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+  <a href="mailto:lbc_moraes@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>   
+
+  <a href="https://www.linkedin.com/in/leandro-moraes-442b20215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
