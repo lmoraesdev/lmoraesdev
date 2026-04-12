@@ -4,8 +4,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/lmoraesdev?style=social)](https://github.com/lmoraesdev)
 [![GitHub stars](https://img.shields.io/github/stars/lmoraesdev?style=social)](https://github.com/lmoraesdev)
 
----
-
 ### 🚀 About Me
 
 Backend Software Engineer building financial systems focused on reliability, scalability, and real-world constraints.
@@ -72,7 +70,7 @@ Tools & Environment
 
 ---
 
-## 42cursus Syllabus
+### 42cursus Syllabus
 
 ### Phase 1:
 <img alt="42 Phase One" src="https://github.com/caroldaniel/caroldaniel-utils/blob/694d4e6dd88e52b73b5c00dcd52bbe9ae2bec48f/phase_onem.png" />
