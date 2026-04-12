@@ -1,4 +1,4 @@
-# 👋 Hello, world! I'm Leandro Moraes! 💜
+# 👋 Hello, world! I'm Leandro Moraes
 
 [![Visitors](https://komarev.com/ghpvc/?username=lmoraesdev&color=blue&style=flat&label=visitors)](https://github.com/lmoraesdev)
 [![GitHub followers](https://img.shields.io/github/followers/lmoraesdev?style=social)](https://github.com/lmoraesdev)
