@@ -64,7 +64,7 @@ Tools & Environment
 
 ---
 
-## 🧠 Current Focus
+### 🧠 Current Focus
 
 - Expanding backend expertise into Java (Spring ecosystem, architecture, and testing)
 - Designing scalable and resilient distributed systems
