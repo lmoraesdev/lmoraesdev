@@ -6,42 +6,69 @@
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-I'm a driven and enthusiastic aspiring **Full-Stack Developer** with a passion for building innovative and user-centric web applications. I thrive on solving complex problems and am constantly seeking opportunities to expand my skillset and create impactful solutions.
+Backend Software Engineer building financial systems focused on reliability, scalability, and real-world constraints.
 
-Currently, I'm immersed in the rigorous **42 São Paulo** program, where I'm sharpening my programming prowess and collaborating with talented peers on challenging projects. I'm particularly captivated by the world of front-end development, where I enjoy crafting seamless and engaging user experiences.
+Experience in fintech environments working with Pix and Embedded BaaS, handling high-volume transactions, idempotency, and integrations with external payment providers.
 
-My ultimate goal is to leverage my skills and knowledge in a dynamic and collaborative professional environment. I'm eager to contribute to meaningful projects, learn from experienced mentors, and continue my journey of growth as a developer. I'm a fast learner, a dedicated team player, and I approach every challenge with enthusiasm and a problem-solving mindset.
+I design and implement distributed systems using Node.js, while expanding into Java for production-grade backend systems, applying architectural patterns such as DDD, Clean Architecture, and Hexagonal Architecture.
 
-Let's connect and build something amazing together!
+Strong experience with:
+- event-driven systems (RabbitMQ, Redis)
+- asynchronous processing
+- fault tolerance and retry strategies
+- observability and production readiness
+
+Background in systems programming (C/C++) through 42 São Paulo, working close to memory management, processes, and performance.
+
+Leveraging AI to optimize development workflows and accelerate problem-solving.
+
+I build backend systems that are:
+- consistent and predictable
+- resilient to failure
+- easy to evolve and maintain
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img align="center" alt="C" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="HTML" height="60"   
- width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="60"   
- width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height="60"   
- width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="JavaScript"   
- height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="60"   
- width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="60"   
- width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Styled Components" height="30" width="40" src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg">
-  <img   
- align="center" alt="Node.js" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Express" height="60"   
- width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img align="center" alt="NestJS" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg">
-</div>
+Backend
+
+- Node.js (Express, NestJS)
+- Java (in progress — focused on backend and system design)
+
+Frontend (supporting)
+
+- React
+- TypeScript
+
+Core Concepts
+
+- Object-Oriented Programming (OOP)
+- SOLID principles
+- REST APIs
+- Data validation (Zod)
+- Error handling patterns
+
+Testing
+
+- Vitest
+- Sinon
+
+Tools & Environment
+
+- Git
+- Docker
+- Linux
+
+---
+
+## 🧠 Current Focus
+
+- Expanding backend expertise into Java (Spring ecosystem, architecture, and testing)
+- Designing scalable and resilient distributed systems
+- Improving testing strategies and observability
 
 ---
 
